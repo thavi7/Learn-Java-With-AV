@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA CORE.iml" filepath="$PROJECT_DIR$/JAVA CORE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper/Wrapper.iml" filepath="$PROJECT_DIR$/Wrapper/Wrapper.iml" />
+    </modules>
+  </component>
+</project>
